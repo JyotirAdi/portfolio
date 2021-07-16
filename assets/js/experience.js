@@ -6,15 +6,15 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
+    title: "Core Committee Member",
+    cardImage: "assets/images/experience-page/SEDS-VIT.jpeg",
+    place: "SEDS VIT Projects",
     time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Worked under Team ARDRA for Software and Management departments</li> <li>Participated in competitions like SUAS2020 and IPAS </li> <li>Improved the 'Obsticle avoidance system' with research on various algorithms </li><li>Maintained Social Media presence to showcase the achievements ",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    title: "Machine Learning Contributer",
+    cardImage: "assets/images/experience-page/EMBS.jpg",
     place: "Google Summer Of Code",
     time: "(Mar - Aug, 2019)",
     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
