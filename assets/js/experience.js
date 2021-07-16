@@ -15,16 +15,16 @@ const exp = [
   {
     title: "Machine Learning Contributer",
     cardImage: "assets/images/experience-page/EMBS.jpg",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "IEEE Engineering in Medicine and Biology Society",
+    time: "(May, 2020, - present)",
+    desp: "<li>Worked in a team to optimise Tissue Culture using Machine Learning</li><li>Leading a team working on BioOptimisation using various algorithms</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "",
+    cardImage: "assets/images/experience-page/download.jfif",
+    place: "F.E.P.S.I",
+    time: "(march, 2020 - present)",
+    desp:"<li>FEPSI is a youth-based non-governmental organization working towards a better and egalitarian society.</li><li>Designed posters for events conducted to help the unprevileged</li><li>Worked towards maintaining social media reach and volunteered for social work</li>",
   },
 ];
 
