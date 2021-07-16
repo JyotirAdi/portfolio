@@ -483,7 +483,8 @@ html[light-mode="dark"] {
 .footer {
     padding-top: 10px;
     font-family: "Poppins", sans-serif;
-    background-color: #121212;
+    background-color: #F6F6F6;
+    color: black;
 }
 
 .tag {
@@ -757,12 +758,12 @@ Rotate Transition in foote Soical Icon
     height: auto;
     width: auto;
     text-align: left;
-    color: #fff;
+    color: black;
     display: inline;
     font-size: 25px;
     font-weight: 200;
     line-height: 22px;
-    border-bottom: 3px solid #bb86fc;
+    
 }
 
 .form-header {
@@ -791,11 +792,11 @@ form {
 }
 
 .form-style-6 h1 {
-    background: #bb86fc;
+    background: black;
     font-size: 140%;
     font-weight: 300;
     text-align: center;
-    color: #fff;
+    color: black;
     margin: -16px -16px 16px -16px;
 }
 
@@ -821,9 +822,9 @@ form {
     background: transparent;
     margin-bottom: 4%;
     border: #000;
-    border-bottom: 2px solid #bb86fc;
+    border: 2px solid black;
     padding: 3%;
-    color: rgb(107, 105, 105);
+    color: 808080;
     font: 95% Arial, Helvetica, sans-serif;
     border-radius: 2px;
 }
@@ -838,9 +839,9 @@ form {
 .form-style-6 input[type="url"]:focus,
 .form-style-6 textarea:focus,
 .form-style-6 select:focus {
-    box-shadow: 0 0 5px #bb86fc;
+    box-shadow: 0 0 5px black;
     padding: 3%;
-    border: 1px solid #bb86fc;
+    border: 1px solid black;
     border-radius: 2px;
 }
 
@@ -852,8 +853,8 @@ form {
     width: 100%;
     margin-top: 2rem;
     padding: 3%;
-    background: #bb86fc;
-    border-bottom: 2px solid #bb86fc;
+    background: black;
+    border-bottom: 2px solid black;
     border-radius: 23px;
     border-top-style: none;
     border-right-style: none;
