@@ -58,7 +58,7 @@ const showCards2 = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards2);
 
-
+/*
 // Volunteership Cards
 
 const volunteership = document.querySelector(".volunteership");
@@ -207,7 +207,7 @@ const mentor = [
   
 
 ];
-
+*/
 const showCards3 = () => {
   let output = "";
   mentor.forEach(
